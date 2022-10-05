@@ -1,0 +1,82 @@
+
+
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{xcolor}
+
+\usepackage{graphicx}
+
+
+\title{\LARGE\color{red}{RESUME}}
+
+\author{V MANISHA}
+
+\date{july 2022}
+
+\begin{document}
+
+\maketitle
+
+
+\section*{\color{blue}Personal details}
+
+\paragraph{Name : Vangooru Manisha\\Father name : Ramulu\\Address : Rangareddy,telangana}
+
+\paragraph{ID Number : B191805}
+
+\section*{\color{blue}Education} 
+
+\paragraph{Engineering 1st year\\Department : Computer Science And Engineering }
+
+\paragraph{University : RGUKT basar, Telangana}
+
+\paragraph{intermediate marks : 8.8 Gpa \ref{table1}}
+
+\section*{\small\color{purple}{other details:}}
+
+\paragraph{Hobies : pencil drawings,watching movies\\Intrested in :coding\\}
+
+\begin{table}
+
+\newpage
+
+\section*{\color{orange}{Grade}}
+
+\centering \caption{my grade}
+
+\begin{tabular}{|c|c|c|} \hline
+
+sno & subject & grade\\ \hline
+
+1 & maths & X\\ \hline
+
+2 & physics & A\\ \hline
+
+3 & chemistry & B\\ \hline
+
+4 & IT & A\\ \hline
+
+\end{tabular}
+
+\label{table1}
+
+\end{table}
+
+\begin{figure}
+
+\centering
+
+\includegraphics[width=\linewidth]{manu.jpg}
+
+\caption{\large\color{red}{{my first image}}}
+
+
+\end{figure}
+
+
+
+\end{document}
+
+
